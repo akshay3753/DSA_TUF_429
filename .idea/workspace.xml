@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="c6f5620b-b2eb-40d0-af94-5b47fccdb132" name="Changes" comment="">
+      <change afterPath="D:/DSA_TUF_429/.gitignore" afterDir="false" />
+      <change afterPath="D:/DSA_TUF_429/.idea/.gitignore" afterDir="false" />
+      <change afterPath="D:/DSA_TUF_429/.idea/misc.xml" afterDir="false" />
+      <change afterPath="D:/DSA_TUF_429/.idea/modules.xml" afterDir="false" />
+      <change afterPath="D:/DSA_TUF_429/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="D:/DSA_TUF_429/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="D:/DSA_TUF_429/DSA_TUF_429.iml" afterDir="false" />
+      <change afterPath="D:/DSA_TUF_429/src/Main.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="D:/DSA_TUF_429" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 2
+}</component>
+  <component name="ProjectId" id="35lo2N8KVXNzNTsCYU1xhnKSpHu" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.P001_CountDigits.executor": "Run",
+    "Application.P002_CheckEvenOdd.executor": "Run",
+    "Application.P003_ReverseNumber.executor": "Run",
+    "Application.P004_PalindromeNumber.executor": "Run",
+    "Application.Unnamed.executor": "Run",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "master",
+    "ignore.virus.scanning.warn.message": "true",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "D:/DSA_TUF_429",
+    "onboarding.tips.debug.path": "D:/DSA_TUF_429/src/Main.java",
+    "project.structure.last.edited": "SDKs",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "editing.templates"
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration default="true" type="Application" factoryName="Application">
+      <module name="DSA_TUF_429" />
+      <option name="WORKING_DIRECTORY" value="D:/DSA_TUF_429" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c6f5620b-b2eb-40d0-af94-5b47fccdb132" name="Changes" comment="" />
+      <created>1763693812274</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1763693812274</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://D:/DSA_TUF_429/src/Main.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

@@ -1,0 +1,14 @@
+# IntelliJ project settings
+.idea/
+
+# Output directories
+out/
+
+# Compiled Java classes
+*.class
+
+# IntelliJ module files
+*.iml
+
+# Mac system file
+.DS_Store
