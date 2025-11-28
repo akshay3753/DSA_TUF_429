@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c6f5620b-b2eb-40d0-af94-5b47fccdb132" name="Changes" comment="Add P006 Factorial of a Number">
+    <list default="true" id="c6f5620b-b2eb-40d0-af94-5b47fccdb132" name="Changes" comment="Add P007 Armstrong Number">
       <change beforePath="D:/DSA_TUF_429/.idea/workspace.xml" beforeDir="false" afterPath="D:/DSA_TUF_429/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -54,6 +54,7 @@
     "Application.P005_LargestNumber.executor": "Run",
     "Application.P006_FactorialNumber.executor": "Run",
     "Application.P007_ArmstrongNumber.executor": "Run",
+    "Application.P008_PerfectNumber.executor": "Run",
     "Application.Unnamed.executor": "Run",
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
@@ -127,7 +128,23 @@
       <option name="project" value="LOCAL" />
       <updated>1764294621876</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Add P007 Armstrong Number">
+      <option name="closed" value="true" />
+      <created>1764300483638</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1764300483638</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Add P007 Armstrong Number">
+      <option name="closed" value="true" />
+      <created>1764300507069</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1764300507069</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -145,7 +162,8 @@
     <MESSAGE value="Cleaned up .gitignore" />
     <MESSAGE value="Add P005 Largest Digit in Number" />
     <MESSAGE value="Add P006 Factorial of a Number" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add P006 Factorial of a Number" />
+    <MESSAGE value="Add P007 Armstrong Number" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add P007 Armstrong Number" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
