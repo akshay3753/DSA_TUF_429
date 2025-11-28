@@ -4,8 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c6f5620b-b2eb-40d0-af94-5b47fccdb132" name="Changes" comment="Add P009 Prime Number">
+    <list default="true" id="c6f5620b-b2eb-40d0-af94-5b47fccdb132" name="Changes" comment="Add P0010 Prime Number till N">
       <change beforePath="D:/DSA_TUF_429/.idea/workspace.xml" beforeDir="false" afterPath="D:/DSA_TUF_429/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="D:/DSA_TUF_429/src/basics/maths/P011_GCD.java" beforeDir="false" afterPath="D:/DSA_TUF_429/src/basics/maths/P011_GCD.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -170,7 +171,23 @@
       <option name="project" value="LOCAL" />
       <updated>1764305890328</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="Add P0010 Prime Number till N">
+      <option name="closed" value="true" />
+      <created>1764309330217</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1764309330217</updated>
+    </task>
+    <task id="LOCAL-00012" summary="Add P0010 Prime Number till N">
+      <option name="closed" value="true" />
+      <created>1764309358762</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1764309358762</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -191,7 +208,8 @@
     <MESSAGE value="Add P007 Armstrong Number" />
     <MESSAGE value="Add P008 Perfect Number" />
     <MESSAGE value="Add P009 Prime Number" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add P009 Prime Number" />
+    <MESSAGE value="Add P0010 Prime Number till N" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add P0010 Prime Number till N" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
