@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c6f5620b-b2eb-40d0-af94-5b47fccdb132" name="Changes" comment="Add P008 Perfect Number">
+    <list default="true" id="c6f5620b-b2eb-40d0-af94-5b47fccdb132" name="Changes" comment="Add P009 Prime Number">
       <change beforePath="D:/DSA_TUF_429/.idea/workspace.xml" beforeDir="false" afterPath="D:/DSA_TUF_429/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -47,6 +47,7 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.P0010_PrimeNumber_N.executor": "Run",
     "Application.P001_CountDigits.executor": "Run",
     "Application.P002_CheckEvenOdd.executor": "Run",
     "Application.P003_ReverseNumber.executor": "Run",
@@ -55,6 +56,7 @@
     "Application.P006_FactorialNumber.executor": "Run",
     "Application.P007_ArmstrongNumber.executor": "Run",
     "Application.P008_PerfectNumber.executor": "Run",
+    "Application.P009_PrimeNumber.executor": "Run",
     "Application.Unnamed.executor": "Run",
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
@@ -160,7 +162,15 @@
       <option name="project" value="LOCAL" />
       <updated>1764304940729</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="Add P009 Prime Number">
+      <option name="closed" value="true" />
+      <created>1764305890328</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1764305890328</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -180,7 +190,8 @@
     <MESSAGE value="Add P006 Factorial of a Number" />
     <MESSAGE value="Add P007 Armstrong Number" />
     <MESSAGE value="Add P008 Perfect Number" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add P008 Perfect Number" />
+    <MESSAGE value="Add P009 Prime Number" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add P009 Prime Number" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
