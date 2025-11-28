@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c6f5620b-b2eb-40d0-af94-5b47fccdb132" name="Changes" comment="Add P005 Largest Digit in Number">
+    <list default="true" id="c6f5620b-b2eb-40d0-af94-5b47fccdb132" name="Changes" comment="Add P006 Factorial of a Number">
       <change beforePath="D:/DSA_TUF_429/.idea/workspace.xml" beforeDir="false" afterPath="D:/DSA_TUF_429/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="D:/DSA_TUF_429/src/FastScanner.java" beforeDir="false" afterPath="D:/DSA_TUF_429/src/util/FastScanner.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,6 +53,7 @@
     "Application.P004_PalindromeNumber.executor": "Run",
     "Application.P005_LargestNumber.executor": "Run",
     "Application.P006_FactorialNumber.executor": "Run",
+    "Application.P007_ArmstrongNumber.executor": "Run",
     "Application.Unnamed.executor": "Run",
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
@@ -119,7 +119,15 @@
       <option name="project" value="LOCAL" />
       <updated>1764055849273</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Add P006 Factorial of a Number">
+      <option name="closed" value="true" />
+      <created>1764294621876</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1764294621876</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -136,7 +144,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Cleaned up .gitignore" />
     <MESSAGE value="Add P005 Largest Digit in Number" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add P005 Largest Digit in Number" />
+    <MESSAGE value="Add P006 Factorial of a Number" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add P006 Factorial of a Number" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
