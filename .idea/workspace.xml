@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c6f5620b-b2eb-40d0-af94-5b47fccdb132" name="Changes" comment="Add P0010 Prime Number till N">
+    <list default="true" id="c6f5620b-b2eb-40d0-af94-5b47fccdb132" name="Changes" comment="Add P011 GCD">
       <change beforePath="D:/DSA_TUF_429/.idea/workspace.xml" beforeDir="false" afterPath="D:/DSA_TUF_429/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="D:/DSA_TUF_429/src/basics/maths/P011_GCD.java" beforeDir="false" afterPath="D:/DSA_TUF_429/src/basics/maths/P011_GCD.java" afterDir="false" />
+      <change beforePath="D:/DSA_TUF_429/src/basics/maths/P013_Divisors.java" beforeDir="false" afterPath="D:/DSA_TUF_429/src/basics/maths/P013_Divisors.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,6 +48,7 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.Divisors.executor": "Run",
     "Application.P0010_PrimeNumber_N.executor": "Run",
     "Application.P001_CountDigits.executor": "Run",
     "Application.P002_CheckEvenOdd.executor": "Run",
@@ -58,6 +59,8 @@
     "Application.P007_ArmstrongNumber.executor": "Run",
     "Application.P008_PerfectNumber.executor": "Run",
     "Application.P009_PrimeNumber.executor": "Run",
+    "Application.P011_GCD.executor": "Run",
+    "Application.P012_lcm.executor": "Run",
     "Application.Unnamed.executor": "Run",
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
@@ -187,7 +190,23 @@
       <option name="project" value="LOCAL" />
       <updated>1764309358762</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="Add P011 GCD">
+      <option name="closed" value="true" />
+      <created>1764316828465</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1764316828465</updated>
+    </task>
+    <task id="LOCAL-00014" summary="Add P011 GCD">
+      <option name="closed" value="true" />
+      <created>1764316833727</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1764316833727</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -209,7 +228,8 @@
     <MESSAGE value="Add P008 Perfect Number" />
     <MESSAGE value="Add P009 Prime Number" />
     <MESSAGE value="Add P0010 Prime Number till N" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add P0010 Prime Number till N" />
+    <MESSAGE value="Add P011 GCD" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add P011 GCD" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
