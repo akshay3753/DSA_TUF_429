@@ -11,7 +11,7 @@ public class P008_PerfectNumber {
         Preint yes if equal, otherwise no
          */
 
-        FastScanner fs = new FastScanner(System.in);
+        FastScanner fs = new FastScanner();
         int n = fs.nextInt();
 
         if(n <= 1){

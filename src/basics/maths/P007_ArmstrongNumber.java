@@ -17,7 +17,7 @@ public class P007_ArmstrongNumber {
 
         // Objective 1 . Take input
 
-        FastScanner fs = new FastScanner(System.in);
+        FastScanner fs = new FastScanner();
         int n = fs.nextInt();
 
         // Objective 2 : Store original number

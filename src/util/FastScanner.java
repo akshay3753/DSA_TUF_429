@@ -7,8 +7,8 @@ public class FastScanner {
     private final BufferedReader br;
     private StringTokenizer st;
 
-    public FastScanner(InputStream is) {
-        br = new BufferedReader(new InputStreamReader(is));
+    public FastScanner() {
+        br = new BufferedReader(new InputStreamReader(System.in));
     }
 
     public String next() throws Exception {

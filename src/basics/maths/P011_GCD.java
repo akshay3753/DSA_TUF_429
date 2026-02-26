@@ -5,7 +5,7 @@ import util.FastScanner;
 public class P011_GCD {
     public static void main(String[] args) throws Exception {
         // Write your solution here
-        FastScanner fs = new FastScanner(System.in);
+        FastScanner fs = new FastScanner();
         int a = fs.nextInt();
         int b = fs.nextInt();
 

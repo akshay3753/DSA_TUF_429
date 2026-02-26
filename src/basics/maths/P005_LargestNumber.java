@@ -3,7 +3,7 @@ import util.FastScanner;
 public class P005_LargestNumber {
     public static void main(String[] args) throws Exception {
         // Write your solution here
-        FastScanner fs  = new FastScanner(System.in);
+        FastScanner fs  = new FastScanner();
         int n = fs.nextInt();
 
        int maxDigit = 0;

@@ -5,7 +5,7 @@ import util.FastScanner;
 public class P0010_PrimeNumber_N {
     public static void main(String[] args) throws Exception {
         // Write your solution here
-        FastScanner fs = new FastScanner(System.in);
+        FastScanner fs = new FastScanner();
         int n = fs.nextInt();
 
         int count = 0;
