@@ -5,17 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c6f5620b-b2eb-40d0-af94-5b47fccdb132" name="Changes" comment="Add P012 LCM">
-      <change beforePath="D:/DSA_TUF_429/.idea/workspace.xml" beforeDir="false" afterPath="D:/DSA_TUF_429/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="D:/DSA_TUF_429/src/basics/maths/P0010_PrimeNumber_N.java" beforeDir="false" afterPath="D:/DSA_TUF_429/src/basics/maths/P0010_PrimeNumber_N.java" afterDir="false" />
-      <change beforePath="D:/DSA_TUF_429/src/basics/maths/P005_LargestNumber.java" beforeDir="false" afterPath="D:/DSA_TUF_429/src/basics/maths/P005_LargestNumber.java" afterDir="false" />
-      <change beforePath="D:/DSA_TUF_429/src/basics/maths/P006_FactorialNumber.java" beforeDir="false" afterPath="D:/DSA_TUF_429/src/basics/maths/P006_FactorialNumber.java" afterDir="false" />
-      <change beforePath="D:/DSA_TUF_429/src/basics/maths/P007_ArmstrongNumber.java" beforeDir="false" afterPath="D:/DSA_TUF_429/src/basics/maths/P007_ArmstrongNumber.java" afterDir="false" />
-      <change beforePath="D:/DSA_TUF_429/src/basics/maths/P008_PerfectNumber.java" beforeDir="false" afterPath="D:/DSA_TUF_429/src/basics/maths/P008_PerfectNumber.java" afterDir="false" />
-      <change beforePath="D:/DSA_TUF_429/src/basics/maths/P009_PrimeNumber.java" beforeDir="false" afterPath="D:/DSA_TUF_429/src/basics/maths/P009_PrimeNumber.java" afterDir="false" />
-      <change beforePath="D:/DSA_TUF_429/src/basics/maths/P011_GCD.java" beforeDir="false" afterPath="D:/DSA_TUF_429/src/basics/maths/P011_GCD.java" afterDir="false" />
-      <change beforePath="D:/DSA_TUF_429/src/basics/maths/P012_lcm.java" beforeDir="false" afterPath="D:/DSA_TUF_429/src/basics/maths/P012_lcm.java" afterDir="false" />
-      <change beforePath="D:/DSA_TUF_429/src/basics/maths/P013_Divisors.java" beforeDir="false" afterPath="D:/DSA_TUF_429/src/basics/maths/P013_Divisors.java" afterDir="false" />
-      <change beforePath="D:/DSA_TUF_429/src/util/FastScanner.java" beforeDir="false" afterPath="D:/DSA_TUF_429/src/util/FastScanner.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/sorting/P003_InsertionSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/sorting/P003_InsertionSort.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/sorting/P004_MergeSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/sorting/P004_MergeSort.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -30,7 +22,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="D:/DSA_TUF_429" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="GitHubPullRequestSearchHistory">{
   &quot;lastFilter&quot;: {
@@ -55,68 +47,73 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Application.Anagram_array.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Divisors.executor&quot;: &quot;Run&quot;,
-    &quot;Application.P0010_PrimeNumber_N.executor&quot;: &quot;Run&quot;,
-    &quot;Application.P001_CountDigits.executor&quot;: &quot;Run&quot;,
-    &quot;Application.P001_HighestElement.executor&quot;: &quot;Run&quot;,
-    &quot;Application.P001_ReverseString.executor&quot;: &quot;Run&quot;,
-    &quot;Application.P001_SumOfArray.executor&quot;: &quot;Run&quot;,
-    &quot;Application.P001_SumOfNth.executor&quot;: &quot;Run&quot;,
-    &quot;Application.P002_CheckEvenOdd.executor&quot;: &quot;Run&quot;,
-    &quot;Application.P002_FactorialofNumber.executor&quot;: &quot;Run&quot;,
-    &quot;Application.P002_OddNumbers.executor&quot;: &quot;Run&quot;,
-    &quot;Application.P002_Palindrome.executor&quot;: &quot;Run&quot;,
-    &quot;Application.P002_SecondHighestElement.executor&quot;: &quot;Run&quot;,
-    &quot;Application.P003_Highest_LowestFrequency.executor&quot;: &quot;Run&quot;,
-    &quot;Application.P003_ReverseNumber.executor&quot;: &quot;Run&quot;,
-    &quot;Application.P003_SortedElements.executor&quot;: &quot;Run&quot;,
-    &quot;Application.P004_PalindromeNumber.executor&quot;: &quot;Run&quot;,
-    &quot;Application.P004_Prefix.executor&quot;: &quot;Run&quot;,
-    &quot;Application.P004_ReverseArray.executor&quot;: &quot;Run&quot;,
-    &quot;Application.P005_Isomorphic.executor&quot;: &quot;Run&quot;,
-    &quot;Application.P005_LargestNumber.executor&quot;: &quot;Run&quot;,
-    &quot;Application.P006_FactorialNumber.executor&quot;: &quot;Run&quot;,
-    &quot;Application.P006_RotatedString.executor&quot;: &quot;Run&quot;,
-    &quot;Application.P007_Anagram.executor&quot;: &quot;Run&quot;,
-    &quot;Application.P007_ArmstrongNumber.executor&quot;: &quot;Run&quot;,
-    &quot;Application.P008_PerfectNumber.executor&quot;: &quot;Run&quot;,
-    &quot;Application.P009_PrimeNumber.executor&quot;: &quot;Run&quot;,
-    &quot;Application.P011_GCD.executor&quot;: &quot;Run&quot;,
-    &quot;Application.P012_lcm.executor&quot;: &quot;Run&quot;,
-    &quot;Application.POO1_InsertionSort.executor&quot;: &quot;Run&quot;,
-    &quot;Application.POO1_SelectionSort.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Practice.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Practice_HighestOccurring.executor&quot;: &quot;Run&quot;,
-    &quot;Application.PrefixLetters.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Recursion - Sum.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Unnamed.executor&quot;: &quot;Run&quot;,
-    &quot;Downloaded.Files.Path.Enabled&quot;: &quot;false&quot;,
-    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
-    &quot;Repository.Attach.Annotations&quot;: &quot;false&quot;,
-    &quot;Repository.Attach.JavaDocs&quot;: &quot;false&quot;,
-    &quot;Repository.Attach.Sources&quot;: &quot;false&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;D:/DSA_TUF_429&quot;,
-    &quot;onboarding.tips.debug.path&quot;: &quot;D:/DSA_TUF_429/src/Main.java&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;editing.templates&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.Anagram_array.executor": "Run",
+    "Application.Divisors.executor": "Run",
+    "Application.P0010_PrimeNumber_N.executor": "Run",
+    "Application.P001_CountDigits.executor": "Run",
+    "Application.P001_HighestElement.executor": "Run",
+    "Application.P001_ReverseString.executor": "Run",
+    "Application.P001_SumOfArray.executor": "Run",
+    "Application.P001_SumOfNth.executor": "Run",
+    "Application.P002_CheckEvenOdd.executor": "Run",
+    "Application.P002_FactorialofNumber.executor": "Run",
+    "Application.P002_OddNumbers.executor": "Run",
+    "Application.P002_Palindrome.executor": "Run",
+    "Application.P002_SecondHighestElement.executor": "Run",
+    "Application.P003_Highest_LowestFrequency.executor": "Run",
+    "Application.P003_ReverseNumber.executor": "Run",
+    "Application.P003_SortedElements.executor": "Run",
+    "Application.P004_PalindromeNumber.executor": "Run",
+    "Application.P004_Prefix.executor": "Run",
+    "Application.P004_ReverseArray.executor": "Run",
+    "Application.P005_Isomorphic.executor": "Run",
+    "Application.P005_LargestNumber.executor": "Run",
+    "Application.P006_FactorialNumber.executor": "Run",
+    "Application.P006_RotatedString.executor": "Run",
+    "Application.P007_Anagram.executor": "Run",
+    "Application.P007_ArmstrongNumber.executor": "Run",
+    "Application.P008_PerfectNumber.executor": "Run",
+    "Application.P009_PrimeNumber.executor": "Run",
+    "Application.P011_GCD.executor": "Run",
+    "Application.P012_lcm.executor": "Run",
+    "Application.POO1_InsertionSort.executor": "Run",
+    "Application.POO1_SelectionSort.executor": "Run",
+    "Application.Practice.executor": "Run",
+    "Application.Practice_HighestOccurring.executor": "Run",
+    "Application.PrefixLetters.executor": "Run",
+    "Application.Recursion - Sum.executor": "Run",
+    "Application.SpiralMatrix.executor": "Run",
+    "Application.Unnamed.executor": "Run",
+    "Application.missingNumber.executor": "Run",
+    "Application.missingNumberOptimal.executor": "Run",
+    "Application.removeDuplicates.executor": "Run",
+    "Application.spiralMatrix.executor": "Run",
+    "Downloaded.Files.Path.Enabled": "false",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "Repository.Attach.Annotations": "false",
+    "Repository.Attach.JavaDocs": "false",
+    "Repository.Attach.Sources": "false",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "main",
+    "ignore.virus.scanning.warn.message": "true",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "D:/DSA_TUF_429",
+    "onboarding.tips.debug.path": "D:/DSA_TUF_429/src/Main.java",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "editing.templates"
   }
-}</component>
-  <component name="RunManager" selected="Application.Recursion - Sum">
+}]]></component>
+  <component name="RunManager">
     <configuration name="P002_FactorialofNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="basics.recursion.P002_FactorialofNumber" />
       <module name="DSA_TUF_429" />
-      <option name="WORKING_DIRECTORY" value="D:/DSA_TUF_429" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="basics.recursion.*" />
@@ -130,14 +127,14 @@
     <configuration name="Recursion - Sum" type="Application" factoryName="Application">
       <option name="MAIN_CLASS_NAME" value="basics.recursion.P001_SumOfNth" />
       <module name="DSA_TUF_429" />
-      <option name="WORKING_DIRECTORY" value="D:/DSA_TUF_429" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <configuration default="true" type="Application" factoryName="Application">
       <module name="DSA_TUF_429" />
-      <option name="WORKING_DIRECTORY" value="D:/DSA_TUF_429" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -318,7 +315,7 @@
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://D:/DSA_TUF_429/src/Main.java</url>
+          <url>file://$PROJECT_DIR$/src/Main.java</url>
           <line>11</line>
           <option name="timeStamp" value="1" />
         </line-breakpoint>
